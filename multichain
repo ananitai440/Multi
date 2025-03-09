@@ -1,0 +1,13 @@
+https://www.app.multiple.cc/#/signup?inviteCode=Qc26Rs2K
+0xC59808B76a388134c468D6A5Ae1f774A81A98249
+now outside thunder stable horror kitchen below draft copper paddle gun wife
+Wallet address unique identification code:  
+2PLH7KUO
+
+curl -O https://raw.githubusercontent.com/abhiag/Gaia_Node/main/multiple_node_ga.sh && chmod +x multiple_node_ga.sh && ./multiple_node_ga.sh
+
+
+multiple-cli bind --bandwidth-download 20M --identifier 2PLH7KUO --pin 123456 --storage 20G --bandwidth-upload 20M  
+
+multiple-cli bind --bandwidth-download 100 --identifier 2PLH7KUO --pin 123456 --storage 200 --bandwidth-upload 100
+
